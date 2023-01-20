@@ -1,0 +1,12 @@
+
+.col-sm-8 a{
+    background-color: white; 
+     color: #206aa2;
+     border: 1px solid #206aa2;
+     margin-left: 10px;
+}
+
+.col-sm-8 a:hover{
+    background: #206aa2;
+    color: white ;
+}

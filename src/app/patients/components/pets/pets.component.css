@@ -1,0 +1,9 @@
+.col-sm-8 a{
+    /* text-decoration: none; */
+    background-color: white;
+    color: #026AA2;
+}
+.col-sm-8 a:hover{
+    background-color:#026AA2 ;
+    color: white;
+}

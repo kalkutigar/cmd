@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": "1234",
+      "patientName": "sandeep",
+      "department": "oncology",
+      "vet": "dr. shubham koti",
+      "date": "2023-01-18",
+      "time": "17:38",
+      "patientEmail": "sandeep@gmail.com",
+      "patientPhonenumber": "8217613995",
+      "Message": "emergency case",
+      "status": "Active"
+    }
+  ],
+  "comments": [],
+  "departments": [
+    {
+      "id": 1,
+      "departmentName": "Gynachologist",
+      "description": "",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "departmentName": "orthopedic",
+      "description": "",
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "departmentName": "Dentist",
+      "description": null,
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "departmentName": "Anesthesiology",
+      "description": null,
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "departmentName": "Cardiologist",
+      "description": null,
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "departmentName": "pediatircs",
+      "description": "",
+      "status": "Active"
+    }
+  ],
+  "patient": [
+    {
+      "firstname": "sandeep",
+      "lastname": "Naik",
+      "username": "sandeep001",
+      "email": "sandeep@gmail.com",
+      "password": "0917322",
+      "dateofbirth": "12/12/1998",
+      "gender": "Male",
+      "address": "dharmasthala",
+      "city": "uttaraKannada",
+      "postalcode": "589476",
+      "phone": "8050216864",
+      "file": "",
+      "bio": "",
+      "status": "Active",
+      "id": 2
+    }
+  ],
+  "doctor": [
+    {
+      "firstname": "Shubham",
+      "lastname": "Koti",
+      "speciality": "Oncology",
+      "email": "koti17@gmail.com",
+      "password": "091712",
+      "cpassword": "091712",
+      "dob": "12/12/1998",
+      "address": "#27, ward no 07 APMC yard",
+      "city": "Bangalore",
+      "pcode": "587125",
+      "phone": "9353300950",
+      "bio": "",
+      "id": 5
+    },
+    {
+      "firstname": "akshaya",
+      "lastname": "kalkutigar",
+      "speciality": "pediatrics",
+      "email": "kalkutigar@gmail.com",
+      "password": "420948905",
+      "cpassword": "938490834",
+      "dob": "21/12/1997",
+      "address": "police quaters",
+      "city": "ilkal",
+      "pcode": "587125",
+      "phone": "+918050216864",
+      "bio": "",
+      "id": 6
+    }
+  ],
+  "patients": [
+    {}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
